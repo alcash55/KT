@@ -1,0 +1,21 @@
+{
+  "name": "KT",
+  "displayName": "KingTheme",
+  "description": "Color theme using purple and gold",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "King",
+        "uiTheme": "vs-dark",
+        "path": "./themes/King-color-theme.json"
+      }
+    ]
+  }
+}
