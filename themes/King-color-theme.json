@@ -3,31 +3,38 @@
 	"$schema": "vscode://schemas/color-theme",
     "type": "dark",
 	"colors": {
-        "activityBar.background": "#1D052C",
-        "activityBar.border": "#1D052C60",
-        "activityBar.foreground": "#C797F1",
-        "activityBarBadge.background": "#8E8E8E",
-        "activityBarBadge.foreground": "#1D052C",
-        "badge.background": "#1D052C30",
-        "badge.foreground": "#474747",
-        "breadcrumb.activeSelectionForeground": "#474747",
-        "breadcrumb.background": "#1D052C",
-        "breadcrumb.focusForeground": "#C797F1",
-        "breadcrumb.foreground": "#626262",
-        "breadcrumbPicker.background": "#1D052C",
-        "button.background": "#47474750",
-        "contrastBorder": "#47474740",
-        "debugToolBar.background": "#1D052C",
-        "diffEditor.insertedTextBackground": "#B8883415",
-        "diffEditor.removedTextBackground": "#FFFFFF20",
-        "dropdown.background": "#1D052C",
-        "dropdown.border": "#D8BBF610",
-        "editor.background": "#1D052C",
-        "editor.findMatchBackground": "#1D052C",
-        "editor.findMatchBorder": "#474747",
-        "editor.findMatchHighlightBackground": "#47474793",
-        "editor.findMatchHighlightBorder": "#D8BBF630",
-        "editor.foreground": "#C797F1",
+        "activityBar.background": "#4A4063",
+        "activityBar.border": "#ffffff",
+        "activityBar.foreground": "#ffffff",
+        "activityBarBadge.background": "#ffffff",
+        "activityBarBadge.foreground": "#000000",
+
+        "badge.background": "#ffffff",
+        "badge.foreground": "#000000",
+
+        "breadcrumb.activeSelectionForeground": "#ffffff",
+        "breadcrumb.background": "#4A4063",
+        "breadcrumb.focusForeground": "#ffffff",
+        "breadcrumb.foreground": "#BFACC8",
+        "breadcrumbPicker.background": "#4A4063",
+        "button.background": "#4A4063",
+
+        "contrastBorder": "#ffffff",
+
+        "debugToolBar.background": "#00ff22",//?
+
+        "diffEditor.insertedTextBackground": "#4A4063",
+        "diffEditor.removedTextBackground": "#4A4063",
+
+        "dropdown.background": "#4A4063",
+        "dropdown.border": "#ffffff",
+
+        "editor.background": "#372144",
+        "editor.findMatchBackground": "#1eff00", //?
+        "editor.findMatchBorder": "#000000",
+        "editor.findMatchHighlightBackground": "#4A4063",
+        "editor.findMatchHighlightBorder": "#BFACC8",
+        "editor.foreground": "#15ff00", //?
         "editor.lineHighlightBackground": "#1D052C50",
         "editor.selectionBackground": "#8E8E8E30",
         "editor.selectionHighlightBackground": "#4747476b",
