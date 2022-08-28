@@ -1,6 +1,8 @@
 # Royalty VS Code Theme
 
-This theme is available on the
+This theme is available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Alcash55.kingtheme)
+
+## Inspiration
 
 Inspiration for this theme came from colors of royalty during the 16th-19th centuries. During these times the colors represented:
 
