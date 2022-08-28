@@ -1,8 +1,19 @@
 {
-  "name": "KT",
+  "name": "royaltytheme",
   "displayName": "KingTheme",
   "description": "Color theme using purple and gold",
   "version": "0.0.1",
+  "publisher": "alcash55",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alcash55/KT"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "alcash55",
+    "royalty"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },

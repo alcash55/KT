@@ -1,16 +1,17 @@
-# KT README
+# Royalty VS Code Theme
 
-## Working with Markdown
+This theme is available on the
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Inspiration for this theme came from colors of royalty during the 16th-19th centuries. During these times the colors represented:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- White: Purity
+- Gold: Wealth
+- Purple: Royalty
 
-## For more information
+## Resources
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+I created this color pallete at [coolers.co](https://coolors.co/4a4063-bfacc8-c8c6d7-783f8e-4f1271)
 
-**Enjoy!**
+[https://themes.vscode.one/](https://themes.vscode.one/) was used as a template for the theme
+
+## Screenshots
