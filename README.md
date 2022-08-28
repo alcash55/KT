@@ -1,6 +1,6 @@
 # Royalty VS Code Theme
 
-This theme is available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Alcash55.kingtheme)
+This theme is available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Alcash55.royaltytheme)
 
 ## Inspiration
 
