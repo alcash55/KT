@@ -10,7 +10,7 @@ Inspiration for this theme came from colors of royalty during the 16th-19th cent
 
 ## Resources
 
-I created this color pallete at [coolers.co](https://coolors.co/4a4063-bfacc8-c8c6d7-783f8e-4f1271)
+I created this color pallete at [coolers.co](https://coolors.co/4a4063-594e70-685b7d-857696-bfacc8-c8c6d7-a083b3-783f8e-5f287e-4f1271)
 
 [https://themes.vscode.one/](https://themes.vscode.one/) was used as a template for the theme
 
