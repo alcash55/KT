@@ -17,3 +17,5 @@ I created this color pallete at [coolers.co](https://coolors.co/4a4063-594e70-68
 [https://themes.vscode.one/](https://themes.vscode.one/) was used as a template for the theme
 
 ## Screenshots
+
+![image](/assets/RoyaltyThemePreview.png)
